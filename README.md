@@ -36,15 +36,9 @@
 ---
 
 ## 📂 Featured Projects
-### 🌬️ **Wind Energy Analytics**
-<h3>
-🌬️ <a href="https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects" style="color:white; text-decoration:none;">
-Wind Energy Analytics
-</a>
-</h3>
-
-### 🌬️ [Wind Energy Analytics](https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects)
-### 🌬️ Wind Energy Analytics
+### 🌬️ **[Wind Energy Analytics](https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects)**
+## 🌬️ Wind Energy Analytics ⚡
+🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
 ### 🌬️ **Wind Energy Analytics**  
 🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
 - Power Curve Analysis  
