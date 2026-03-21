@@ -36,14 +36,15 @@
 ---
 
 ## 📂 Featured Projects
-## 🌬️ Wind Energy Analytics ⚡
+### 🌬️ Wind Energy Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
 - Power Curve Analysis  
 - Monthly & Daily Performance Reports  
 - Fault & Alarm Analysis  
 - Curtailment & SCADA Insights  
 
-## ☀️ Solar Power Plant Analytics
+### ☀️ Solar Power Plant Analytics ⚡
+🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
 - PR, CUF, Specific Yield Analysis  
 - Inverter & String Performance  
 - Irradiance vs Generation Benchmarking  
