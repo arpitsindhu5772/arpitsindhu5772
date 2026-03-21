@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Arpit%20Sindhu&fontSize=35&fontColor=ffffff"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Arpit%20Sindhu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Solar%20%26%20Wind%20Energy%20⚡&descAlignY=55&descAlign=50"/>
 </p>
