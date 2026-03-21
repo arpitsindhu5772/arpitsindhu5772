@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI" />
+</p>
+
 <h3 align="center">🚀 Data Analyst | Renewable Energy (Solar & Wind) ⚡</h3>
 
 <p align="center">
@@ -40,12 +45,20 @@ Turning raw SCADA data into actionable insights 📊
 
 ---
 
-## 📈 What I Do
-- Analyze SCADA data for performance insights  
-- Identify underperforming turbines/inverters  
-- Perform power curve & generation analysis  
-- Build dashboards in Power BI  
-- Optimize energy production & reduce losses  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitsindhu5772&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsindhu5772&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
