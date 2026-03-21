@@ -10,6 +10,7 @@
 
 ## 🔥 About Me
 - 📊 Data Analyst (Solar & Wind Energy Domain)
+- 🐍 Skilled in Python, SQL, Power BI & Excel 
 - ⚡ SCADA Data Analysis & Performance Optimization
 - 📈 Improving plant efficiency & reducing downtime
 - 🧠 Turning data into business insights
