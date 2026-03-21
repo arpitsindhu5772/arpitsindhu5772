@@ -36,6 +36,14 @@
 ---
 
 ## 📂 Featured Projects
+### 🌬️ **Wind Energy Analytics**  
+🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
+### 🌬️ **[Wind Energy Analytics](https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects)**
+<h3>
+🌬️ <a href="https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects" style="color:white; text-decoration:none;">
+Wind Energy Analytics
+</a>
+</h3>
 ### 🌬️ [Wind Energy Analytics](https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects)
 ### 🌬️ Wind Energy Analytics
 - Power Curve Analysis  
@@ -78,35 +86,3 @@
 ---
 
 ⭐ From Arpit Sindhu ⚡
-
-
-
-## 📂 Featured Projects
-
-### 🌬️ [Wind Energy Analytics & Performance Analysis](https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects)
-
-<p align="center">
-  <a href="https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects">
-    <img src="https://via.placeholder.com/800x400.png?text=Wind+Energy+Dashboard" width="80%">
-  </a>
-</p>
-
-- Power Curve Analysis  
-- Monthly & Daily Performance Reports  
-- Fault & Alarm Analysis  
-- Curtailment & SCADA Insights  
-
----
-
-### ☀️ [Solar Power Plant Analytics & Inverter Analysis](https://github.com/arpitsindhu5772/Solar_Plant_Analysis)
-
-<p align="center">
-  <a href="https://github.com/arpitsindhu5772/Solar_Plant_Analysis">
-    <img src="https://via.placeholder.com/800x400.png?text=Solar+Dashboard" width="80%">
-  </a>
-</p>
-
-- PR, CUF, Specific Yield Analysis  
-- Inverter & String Performance  
-- Irradiance vs Generation Benchmarking  
-- Loss & Fault Analysis  
