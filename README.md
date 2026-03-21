@@ -1,22 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Arpit%20Sindhu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Solar%20%26%20Wind%20Energy%20⚡&descAlignY=55&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Arpit%20Sindhu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Solar%20%26%20Wind%20Energy%20⚡&descAlignY=55&descAlign=50"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI" />
 </p>
 
-<h3 align="center">🚀 Data Analyst | Renewable Energy (Solar & Wind) ⚡</h3>
-
-<p align="center">
-Turning raw SCADA data into actionable insights 📊
-</p>
-
 ---
 
 ## 🔥 About Me
-- 📊 Data Analyst with experience in Solar & Wind Energy Analytics  
-- ⚡ Specialized in SCADA Data Analysis & Performance Optimization  
-- 🐍 Skilled in Python, SQL, Power BI & Excel  
-- 📈 Focused on improving plant efficiency & reducing downtime  
+- 📊 Data Analyst (Solar & Wind Energy Domain)
+- ⚡ SCADA Data Analysis & Performance Optimization
+- 📈 Improving plant efficiency & reducing downtime
+- 🧠 Turning data into business insights
 
 ---
 
@@ -38,10 +40,18 @@ Turning raw SCADA data into actionable insights 📊
 ---
 
 ## 📂 Featured Projects
-- 🌬️ Wind Energy Analytics & Performance Analysis  
-- ☀️ Solar Power Plant Analytics & Inverter Analysis  
-- 📊 Power Curve Analysis (Wind & Solar)  
-- ⚡ SCADA Data Analysis & Fault Detection  
+
+### 🌬️ Wind Energy Analytics
+- Power Curve Analysis  
+- Monthly & Daily Performance Reports  
+- Fault & Alarm Analysis  
+- Curtailment & SCADA Insights  
+
+### ☀️ Solar Power Plant Analytics
+- PR, CUF, Specific Yield Analysis  
+- Inverter & String Performance  
+- Irradiance vs Generation Benchmarking  
+- Loss & Fault Analysis  
 
 ---
 
@@ -71,4 +81,4 @@ Turning raw SCADA data into actionable insights 📊
 
 ---
 
-⭐ From [arpitsindhu5772](https://github.com/arpitsindhu5772)
+⭐ From Arpit Sindhu ⚡
