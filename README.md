@@ -1,3 +1,4 @@
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Arpit%20Sindhu&fontSize=35&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
