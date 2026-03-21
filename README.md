@@ -78,8 +78,7 @@
 
 ---
 
-⭐ From Arpit Sindhu ⚡
-### ⭐ From [arpitsindhu5772](https://github.com/arpitsindhu5772)
+###⭐ From Arpit Sindhu ⚡
 ---
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitsindhu5772)
+---
