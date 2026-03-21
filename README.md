@@ -1,4 +1,3 @@
-![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Arpit%20Sindhu&fontSize=35&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
@@ -30,6 +29,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA-Industrial%20Data-6DB33F?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </p>
 
