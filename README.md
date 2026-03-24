@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=500&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Advance+Excel;Turning+Data+into+Energy+Insights+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Advance+Excel;Turning+Data+into+Energy+Insights+⚡" />
 </p>
 
 <!-- ================== QUICK TAGS ================== -->
