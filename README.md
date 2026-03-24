@@ -69,7 +69,8 @@
 
 ---
 
-## 📬 Connect With Me
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d594bcba-3aa5-4369-86f9-1b007a2365b6" />
+ Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/arpitsindhu5772" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Sindhu-blue?style=for-the-badge&logo=linkedin">
