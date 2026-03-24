@@ -1,20 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Arpit%20Sindhu&fontSize=35&fontColor=ffffff"/>
+<!-- ======= BANNER ======= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Arpit%20Sindhu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=55&descAlign=50"/>
+</p>
 
+<!-- ======= INTRO ======= -->
 <h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Energy+Insights+⚡  " />
 </p>
 
 ---
 
 ## 🔥 About Me
 - 📊 Data Analyst (Solar & Wind Energy Domain)
-- 🐍 Skilled in Python, SQL, Power BI & Excel 
+- 🐍 Skilled in Python, SQL, Power BI & Advance Excel 
 - ⚡ SCADA Data Analysis & Performance Optimization
 - 📈 Improving plant efficiency & reducing downtime
 - 🧠 Turning data into business insights
-
+- 🔍 Passionate about **data-driven decision making**
+- 🧠 Transforming raw data into **actionable insights**
+  
 ---
 
 ## 🚀 Tech Stack
@@ -52,6 +59,14 @@
 
 ---
 
+## 📊 Analytics & Impact
+- ⚡ Improved plant performance through SCADA insights  
+- 📉 Reduced downtime using fault detection techniques  
+- 📈 Optimized energy generation & efficiency  
+- 🔍 Identified underperforming assets 
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -68,18 +83,25 @@
 </p>
 
 ---
+## 🤝 Connect With Me
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d594bcba-3aa5-4369-86f9-1b007a2365b6" />
- Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/arpitsindhu5772" target="_blank">
+<a href="https://linkedin.com/in/arpitsindhu5772">
 <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Sindhu-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/arpitsindhu5772">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
 ---
 
-### ⭐ From Arpit Sindhu ⚡
+## ⚡ Fun Fact
+> I turn raw SCADA data into insights that power real-world energy decisions ⚡
+
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitsindhu5772)
+
+<p align="center">
+⭐ <b>From Arpit Sindhu</b> | Renewable Energy Data Analyst
+</p>
 ---
