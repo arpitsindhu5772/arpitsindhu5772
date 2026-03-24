@@ -113,3 +113,5 @@
 ---
 
 <p align="center"> ⭐ <b>Designed for Impact | Built with Passion</b> </p> 
+---
+<p align="center"> <a href="https://linkedin.com/in/arpitsindhu5772"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/arpitsindhu5772"> <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
