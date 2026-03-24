@@ -114,13 +114,3 @@
 
 <p align="center"> ⭐ <b>Designed for Impact | Built with Passion</b> </p> 
 ---
-<p align="center"> <a href="https://linkedin.com/in/arpitsindhu5772"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/arpitsindhu5772"> <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
-
----
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" /> </p>
-
----
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arpitsindhu5772&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsindhu5772&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
-
----
-
