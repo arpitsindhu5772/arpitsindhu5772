@@ -1,3 +1,26 @@
+<!-- ================== PREMIUM BANNER ================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:2C5364&height=220&section=header&text=ARPIT%20SINDHU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=58"/>
+</p>
+
+<!-- ================== INTRO ================== -->
+<h1 align="center">Hi 👋, I'm Arpit Sindhu</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=Data+Analyst;Renewable+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Turning+Data+into+Energy+Insights+⚡" />
+</p>
+
+<!-- ================== QUICK TAGS ================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Renewable%20Energy-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-SCADA%20Analytics-28A745?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-F2C811?style=flat-square" />
+</p>
+
+---
+
+
+
 <!-- ======= BANNER ======= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=ARPIT%20SINDHU&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=55&descAlign=50"/>
