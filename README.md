@@ -93,6 +93,13 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitsindhu5772&theme=github_dark" />
 </p>
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitsindhu5772&theme=github_dark" />
+</p>
 
 ---
 ## 🤝 Connect With Me
