@@ -86,22 +86,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact&theme=tokyonight" />
 </p>
----
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact" />
-</p>
----
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitsindhu5772&theme=github_dark" />
-</p>
 
 ---
+
 ## 🤝 Connect With Me
 
 <p align="center">
