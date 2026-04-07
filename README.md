@@ -91,7 +91,7 @@
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitsindhu5772&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact" />
 </p>
 ---
 
