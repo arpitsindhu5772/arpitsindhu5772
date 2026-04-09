@@ -20,6 +20,13 @@
 ---
 
 ## 🔥 About Me
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Analyst-Solar%20%26%20Wind-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCADA-Data%20Expert-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Performance%20Optimization-blue?style=for-the-badge"/>
+</p>
+
 - 📊 Data Analyst (Solar & Wind Energy Domain)
 - 🐍 Skilled in Python, SQL, Power BI & Advance Excel 
 - ⚡ SCADA Data Analysis & Performance Optimization
