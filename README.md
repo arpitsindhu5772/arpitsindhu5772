@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Analyst-Solar%20%26%20Wind-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SCADA-Data%20Expert-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Performance%20Optimization-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Renewable%20OEnergy%20OPerformance%20Optimization-blue?style=for-the-badge"/>
 </p>
 
 - 📊 Data Analyst (Solar & Wind Energy Domain)
