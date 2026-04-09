@@ -76,16 +76,14 @@
 ---
 
 ## 📊 Analytics & Impact
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitsindhu5772&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitsindhu5772&theme=tokyonight"/>
-</p>
-
 - ⚡ Improved plant performance through SCADA insights  
 - 📉 Reduced downtime using fault detection techniques  
 - 📈 Optimized energy generation & efficiency  
 - 🔍 Identified underperforming assets 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitsindhu5772&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitsindhu5772&theme=tokyonight"/>
+</p>
 
 ---
 
