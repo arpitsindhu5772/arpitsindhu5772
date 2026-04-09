@@ -50,6 +50,14 @@
 
 ---
 
+## 📊 Live Dashboard Preview
+
+<p align="center">
+  <img src="https://your-image-link.png" width="800"/>
+</p>
+
+---
+
 ## 📂 Featured Projects
 ### 🌬️ Wind Energy Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
