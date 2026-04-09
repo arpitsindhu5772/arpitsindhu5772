@@ -100,7 +100,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/arpitsindhu5772">
@@ -108,6 +108,16 @@
 </a>
 <a href="https://github.com/arpitsindhu5772">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+## 🧾 Resume
+
+<p align="center">
+<a href="https://your-resume-link.pdf">
+<img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge"/>
 </a>
 </p>
 
