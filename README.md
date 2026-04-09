@@ -10,13 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Data+Analyst;Solar+%26+Wind+Energy+Specialist;SCADA+Data+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Advance+Excel;Turning+Data+into+Energy+Insights+⚡" />
 </p>
 
-<!-- ================== QUICK TAGS ================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Renewable%20Energy-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-SCADA%20Analytics-28A745?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-F2C811?style=flat-square" />
-</p>
-
 ---
 
 ## 🔥 About Me
