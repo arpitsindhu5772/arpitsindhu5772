@@ -83,7 +83,7 @@
 ⚡ Improved plant performance through SCADA insights  
 📉 Reduced downtime using fault detection techniques  
 📈 Optimized energy generation & efficiency across assets  
-🔍 Identified underperforming assets
+🔍 Identified underperforming assets  
 📊 Built dashboards for real-time decision making    
 
 <p align="center">
