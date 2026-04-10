@@ -1,5 +1,4 @@
 <!-- ======= BANNER ======= -->
-<h3 align="center">⚡ Data Analyst | Turning Renewable Energy Data into Business Impact</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=ARPIT%20SINDHU&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=55&descAlign=50"/>
 </p>
