@@ -52,7 +52,7 @@
 
 ## 📊 Live Dashboard Preview (Power BI)
 
-📊 Interactive dashboard showcasing wind plant performance insights
+#### 📊 Interactive dashboard showcasing wind plant performance insights
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects/main/Palasi%20Site%20Summary%20Report%20-%20February26.gif" width="90%"/>
@@ -63,17 +63,17 @@
 ## 📂 Featured Projects
 ### 🌬️ Wind Energy Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
-- Power Curve Analysis  
-- Monthly & Daily Performance Reports  
-- Fault & Alarm Analysis  
-- Curtailment & SCADA Insights  
+📊 Power Curve Analysis  
+📈 Monthly & Daily Performance Reports  
+🚨Fault & Alarm Analysis  
+⚡Curtailment & SCADA Insights  
 
 ### ☀️ Solar Power Plant Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
-- PR, CUF, Specific Yield Analysis  
-- Inverter & String Performance  
-- Irradiance vs Generation Benchmarking  
-- Loss & Fault Analysis  
+📊 PR, CUF, Specific Yield Analysis  
+⚡ Inverter & String Performance  
+🌞 Irradiance vs Generation Benchmarking  
+🚨 Loss & Fault Analysis  
 
 ---
 
