@@ -21,12 +21,12 @@
 </p>
 
 
-- 📊 Data Analyst (Solar & Wind Energy Domain)
-- 🐍 Skilled in Python, SQL, Power BI & Advance Excel 
-- ⚡ SCADA Data Analysis & Performance Optimization
-- 🧠 Transforming raw data into **actionable or business insights**
-- 📈 Focused on improving **plant efficiency & reducing downtime**
-- 🔍 Passionate about **data-driven decision making**
+📊  Data Analyst (Solar & Wind Energy Domain)
+🐍  Skilled in Python, SQL, Power BI & Advance Excel 
+⚡  SCADA Data Analysis & Performance Optimization
+🧠  Transforming raw data into **actionable or business insights**
+📈  Focused on improving **plant efficiency & reducing downtime**
+🔍  Passionate about **data-driven decision making**
   
 ---
 
@@ -66,8 +66,8 @@
 
 📊 Power Curve Analysis  
 📈 Monthly & Daily Performance Reports  
-🚨Fault & Alarm Analysis  
-⚡Curtailment & SCADA Insights  
+🚨 Fault & Alarm Analysis  
+⚡ Curtailment & SCADA Insights  
 
 ### ☀️ Solar Power Plant Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
