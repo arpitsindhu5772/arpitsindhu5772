@@ -63,6 +63,7 @@
 ## 📂 Featured Projects
 ### 🌬️ Wind Energy Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
+
 📊 Power Curve Analysis  
 📈 Monthly & Daily Performance Reports  
 🚨Fault & Alarm Analysis  
@@ -70,6 +71,7 @@
 
 ### ☀️ Solar Power Plant Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
+
 📊 PR, CUF, Specific Yield Analysis  
 ⚡ Inverter & String Performance  
 🌞 Irradiance vs Generation Benchmarking  
@@ -78,11 +80,11 @@
 ---
 
 ## 📊 Analytics & Impact
-- ⚡ Improved plant performance through SCADA insights  
-- 📉 Reduced downtime using fault detection techniques  
-- 📈 Optimized energy generation & efficiency across assets  
-- 🔍 Identified underperforming assets
-- 📊 Built dashboards for real-time decision making    
+⚡ Improved plant performance through SCADA insights  
+📉 Reduced downtime using fault detection techniques  
+📈 Optimized energy generation & efficiency across assets  
+🔍 Identified underperforming assets
+📊 Built dashboards for real-time decision making    
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitsindhu5772&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitsindhu5772&theme=tokyonight"/>
