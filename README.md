@@ -140,6 +140,18 @@
 
 ---
 
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=20&center=true&vCenter=true&width=750&lines=Code+the+future+of+clean+energy+⚡;Turning+sunlight+into+data-driven+decisions;Where+data+meets+megawatts;Smart+analytics+for+cleaner+energy;SCADA+data+powers+real-world+impact;Optimizing+energy+through+intelligent+code;From+raw+data+to+renewable+insights;Clean+energy+needs+smart+algorithms;Engineering+efficiency+with+data;Data+is+the+new+fuel+of+renewable+energy"/>
+</p>
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=18&center=true&vCenter=true&width=750&pause=2000&lines=Code+the+future+of+clean+energy+⚡;Where+data+meets+megawatts;Smart+analytics+for+cleaner+energy;SCADA+data+powers+real-world+impact"/>
+
+---
+
 <p align="center">
 ⭐ <b>From Arpit Sindhu</b> | Renewable Energy Data Analyst
 </p>
