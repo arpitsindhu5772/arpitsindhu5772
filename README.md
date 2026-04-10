@@ -135,23 +135,7 @@
 ## ⚡ Quote
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=22&center=true&vCenter=true&width=800&lines=Turning+sunlight+into+insight+⚡;Data+drives+energy+decisions;Code+the+future+of+renewable+energy;Optimize+plants+with+data+analytics;SCADA+data+%3D+Hidden+energy+intelligence;From+data+to+megawatts+⚡;Clean+energy+needs+smart+analytics"/>
-</p>
-
----
-
-## ⚡ Signature Line
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=20&center=true&vCenter=true&width=750&lines=Code+the+future+of+clean+energy+⚡;Turning+sunlight+into+data-driven+decisions;Where+data+meets+megawatts;Smart+analytics+for+cleaner+energy;SCADA+data+powers+real-world+impact;Optimizing+energy+through+intelligent+code;From+raw+data+to+renewable+insights;Clean+energy+needs+smart+algorithms;Engineering+efficiency+with+data;Data+is+the+new+fuel+of+renewable+energy"/>
-</p>
-
----
-
-## ⚡ Signature Line
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=22&center=true&vCenter=true&width=750&pause=2000&lines=Turning+data+into+megawatts+⚡;Code+that+powers+clean+energy;From+SCADA+signals+to+smart+decisions;Engineering+efficiency+through+data;Where+analytics+drives+generation;Clean+energy+runs+on+smart+insights;Optimizing+every+unit+through+analytics;Decoding+SCADA+for+better+generation;Energy+optimization+starts+with+data;Data-driven+energy+is+the+future+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=22&center=true&vCenter=true&width=850&pause=2000&lines=Turning+sunlight+and+wind+into+data-driven+insights+⚡;Code+that+powers+clean+energy;From+SCADA+signals+to+smart+decisions;Where+data+meets+megawatts;Optimizing+solar+and+wind+through+analytics;Engineering+efficiency+with+intelligent+code;Clean+energy+runs+on+smart+data;Decoding+SCADA+for+better+generation;From+raw+data+to+renewable+impact;Data-driven+energy+is+the+future+⚡"/>
 </p>
 
 ---
