@@ -148,7 +148,11 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=18&center=true&vCenter=true&width=750&pause=2000&lines=Code+the+future+of+clean+energy+⚡;Where+data+meets+megawatts;Smart+analytics+for+cleaner+energy;SCADA+data+powers+real-world+impact"/>
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=22&center=true&vCenter=true&width=750&pause=2000&lines=Turning+data+into+megawatts+⚡;Code+that+powers+clean+energy;From+SCADA+signals+to+smart+decisions;Engineering+efficiency+through+data;Where+analytics+drives+generation;Clean+energy+runs+on+smart+insights;Optimizing+every+unit+through+analytics;Decoding+SCADA+for+better+generation;Energy+optimization+starts+with+data;Data-driven+energy+is+the+future+⚡"/>
+</p>
 
 ---
 
