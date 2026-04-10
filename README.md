@@ -21,12 +21,12 @@
 </p>
 
 
-📊  Data Analyst (Solar & Wind Energy Domain)
-🐍  Skilled in Python, SQL, Power BI & Advance Excel 
-⚡  SCADA Data Analysis & Performance Optimization
-🧠  Transforming raw data into **actionable or business insights**
-📈  Focused on improving **plant efficiency & reducing downtime**
-🔍  Passionate about **data-driven decision making**
+📊  Data Analyst (Solar & Wind Energy Domain)  
+🐍  Skilled in Python, SQL, Power BI & Advance Excel  
+⚡  SCADA Data Analysis & Performance Optimization  
+🧠  Transforming raw data into **actionable or business insights**  
+📈  Focused on improving **plant efficiency & reducing downtime**  
+🔍  Passionate about **data-driven decision making**  
   
 ---
 
