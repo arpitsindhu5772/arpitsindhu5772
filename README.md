@@ -69,7 +69,6 @@
 🚨Fault & Alarm Analysis  
 ⚡Curtailment & SCADA Insights  
 
----
 ### ☀️ Solar Power Plant Analytics ⚡
 🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
 
