@@ -147,3 +147,16 @@
 ---
 
 <p align="center"> ⭐ <b>Designed for Impact | Built with Passion</b> </p> 
+
+---
+
+<p align="center">
+⚡ Data → Insights → Energy Optimization
+</p>
+
+---
+<!-- ================= VISITOR ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitsindhu5772&color=blue"/>
+</p>
