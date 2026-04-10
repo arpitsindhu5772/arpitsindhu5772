@@ -1,4 +1,5 @@
 <!-- ======= BANNER ======= -->
+<h3 align="center">⚡ Data Analyst | Turning Renewable Energy Data into Business Impact</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=ARPIT%20SINDHU&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=55&descAlign=50"/>
 </p>
@@ -53,7 +54,7 @@
 ## 📊 Live Dashboard Preview
 
 <p align="center">
-  <img src="https://your-image-link.png" width="800"/>
+  <img src="https://your-image-link.png" width="90%"/>
 </p>
 
 ---
@@ -78,8 +79,9 @@
 ## 📊 Analytics & Impact
 - ⚡ Improved plant performance through SCADA insights  
 - 📉 Reduced downtime using fault detection techniques  
-- 📈 Optimized energy generation & efficiency  
-- 🔍 Identified underperforming assets 
+- 📈 Optimized energy generation & efficiency across assets  
+- 🔍 Identified underperforming assets
+- 📊 Built dashboards for real-time decision making    
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitsindhu5772&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitsindhu5772&theme=tokyonight"/>
