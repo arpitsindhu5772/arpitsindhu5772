@@ -150,7 +150,7 @@
 
 
 <p align="center">
-⚡ Data → Insights → Energy Optimization
+⚡ From Data to Decisions → Powering Renewable Energy Optimization
 </p>
 
 ---
