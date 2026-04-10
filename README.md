@@ -85,6 +85,7 @@
 📈 Optimized energy generation & efficiency across assets  
 🔍 Identified underperforming assets
 📊 Built dashboards for real-time decision making    
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitsindhu5772&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitsindhu5772&theme=tokyonight"/>
